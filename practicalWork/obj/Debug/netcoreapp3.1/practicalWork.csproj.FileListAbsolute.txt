@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/bin/Debug/netcoreapp3.1/practicalWork.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/bin/Debug/netcoreapp3.1/practicalWork.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/bin/Debug/netcoreapp3.1/practicalWork.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/bin/Debug/netcoreapp3.1/practicalWork.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/bin/Debug/netcoreapp3.1/practicalWork.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/obj/Debug/netcoreapp3.1/practicalWork.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/obj/Debug/netcoreapp3.1/practicalWork.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/obj/Debug/netcoreapp3.1/practicalWork.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/obj/Debug/netcoreapp3.1/practicalWork.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/practicalWork/obj/Debug/netcoreapp3.1/practicalWork.pdb

@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/bin/Debug/netcoreapp3.1/Dormitory.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/bin/Debug/netcoreapp3.1/Dormitory.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/bin/Debug/netcoreapp3.1/Dormitory.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/bin/Debug/netcoreapp3.1/Dormitory.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/bin/Debug/netcoreapp3.1/Dormitory.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/obj/Debug/netcoreapp3.1/Dormitory.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/obj/Debug/netcoreapp3.1/Dormitory.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/obj/Debug/netcoreapp3.1/Dormitory.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/obj/Debug/netcoreapp3.1/Dormitory.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_10/homework/Dormitory/obj/Debug/netcoreapp3.1/Dormitory.pdb
